@@ -1,0 +1,1 @@
+<?php exit();?>{"suite_ticket":{"suite_ticket":"gBocwOlyGEMPJXJ4piNWEqYtvF1Jg8XCNnauPDGSbkPNLUVy03YNyoYySYHvqZiw9f7xeVArtU68GA3CW84yRy","expire_time":0,"create_time":1472304210},"suite_access_token":{"suite_access_token":"c19652f8a9233a91b1e0fb87c358eb5a","expire_time":1472309390,"create_time":1472302390}}
