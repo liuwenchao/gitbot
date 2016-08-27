@@ -107,3 +107,5 @@ E/ 2016-08-27 01:40:35  [FAIL]: {"errcode":60020,"errmsg":"\u8bbf\u95eeip\u4e0d\
 E/ 2016-08-27 01:40:51  [FAIL]: {"errcode":60020,"errmsg":"\u8bbf\u95eeip\u4e0d\u5728\u767d\u540d\u5355\u4e4b\u4e2d"}
 E/ 2016-08-27 01:41:09  [FAIL]: {"errcode":60020,"errmsg":"\u8bbf\u95eeip\u4e0d\u5728\u767d\u540d\u5355\u4e4b\u4e2d"}
 E/ 2016-08-27 01:41:31  [FAIL]: {"errcode":60020,"errmsg":"\u8bbf\u95eeip\u4e0d\u5728\u767d\u540d\u5355\u4e4b\u4e2d"}
+I/ 2016-08-27 01:43:31  DECRYPT MSG SUCCESS {"signature":"f4a65abdeee8042c8d18988ea8ff976f301cfd52","timestamp":"1472305410107","nonce":"z1KG7QtP"}  {"EventType":"suite_ticket","SuiteKey":"suiteg1hdbaokiburujdh","SuiteTicket":"YLU1wq07tQ6bZCuy6o66flRXqgulE1dPHUZf1QGs3LCBbaeYV2PdjEpeiO927aePmiJ7foXXhBkbODSJ3ZlQfZ","TimeStamp":"1472305410107"}
+I/ 2016-08-27 01:43:31  RESPONSE: {"msg_signature":"93592f5df835cc1b592f1ff4849d99a0fbca51af","encrypt":"oixr\/5n3UrnjJ4D8VOleHC3YmKp8pw4XQvrWZxQvf2DfnlzCW7RgPVpTV54YtJ5Vz\/bQVBoASvRztNJxCe\/djw==","timeStamp":"1472305410107","nonce":"z1KG7QtP"}
